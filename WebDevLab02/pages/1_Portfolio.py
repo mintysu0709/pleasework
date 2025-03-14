@@ -1,6 +1,6 @@
 import streamlit as st
 import pandas as pd
-with open('styles.css') as css:
+with open('WebDevLab02/styles.css') as css:
     st.markdown(f'<style>{css.read()}</style>', unsafe_allow_html=True)
 #This File will contain the information to be displayed in your portfolio
 
