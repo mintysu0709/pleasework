@@ -13,12 +13,12 @@ VOTES_FILE = "votes.json"
 # Sanrio character list
 characters = ["Hello Kitty", "My Melody", "Cinnamoroll", "Kuromi", "Keroppi", "Badtz-Maru"]
 character_images = {
-    "Hello Kitty": "images/hellokitty.png",
-    "My Melody": "images/mymelo.webp",
-    "Cinnamoroll": "images/cinna.webp",
-    "Kuromi": "images/kuromi.webp",
-    "Keroppi": "images/kerropi.png",
-    "Badtz-Maru": "images/badtz.png"
+    "Hello Kitty": "WebDevLab02/images/hellokitty.png",
+    "My Melody": "WebDevLab02/images/mymelo.webp",
+    "Cinnamoroll": "WebDevLab02/images/cinna.webp",
+    "Kuromi": "WebDevLab02/images/kuromi.webp",
+    "Keroppi": "WebDevLab02/images/kerropi.png",
+    "Badtz-Maru": "WebDevLab02/images/badtz.png"
 }
 
 # Check if votes.json exists, if not, create it
